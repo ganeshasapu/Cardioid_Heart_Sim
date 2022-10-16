@@ -1,10 +1,10 @@
 # Cardioid_Heart_Sim
 
-This project is a simulation of the Cardioid Heart graph.
+Simulation of the Cardioid Heart graph.
 
 It uses Python and Pygame.
 
-##Video Preview
+## Video Preview
 
 https://user-images.githubusercontent.com/62232361/182711795-5a05e0ed-d9de-4acb-aed9-ae9adf620d3b.mp4
 
